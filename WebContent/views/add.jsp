@@ -39,7 +39,7 @@
 		}
 		//alert(projectName);
 	</script>
-	<form id = "calcForm" method = "post" action = "/add.action">
+	<form id = "calcForm" method = "post" action = "add.action">
 		<table>
 			<tr>
 				<td>第一个数</td>
